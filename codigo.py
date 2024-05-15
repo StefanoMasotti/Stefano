@@ -1,5 +1,6 @@
-a=10
-b=5
+nombre= "stefano"
+apellido= "masotti"
 
-suma = a + b
-print(suma)
+saludo = "hola " + nombre + " " + apellido + ", como estas?"
+
+print(saludo)
