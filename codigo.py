@@ -1,5 +1,5 @@
-nombre= "chiara"
-apellido= "masotti"
+nombre= "Stefano Victorio"
+apellido= "Masotti"
 
 saludo = "hola " + nombre + " " + apellido + ", como estas?"
 
